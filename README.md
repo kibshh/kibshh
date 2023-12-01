@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Mihajlo
-- 👀 I’m interested in Internet Of Things technology
-- 🌱 I’m currently learning advanced C++ and Embedded C, communication protocols
-- 💞️ I’m looking to collaborate on Embedded systems and IOT projects as well as any C++, C or Python projects
-- 📫 How to reach me sasic.mihajlo25@gmail.com
+👋 Hi, I’m Mihajlo!
+
+👀 I’m passionate about Embedded Systems and IoT.
+
+🌱 Currently, I'm honing my skills in embedded programming.
+
+🚀 I’m open to collaborating on exciting Embedded Systems and IoT projects, as well as any projects involving C++, C, or Python.
+
+📫 Reach me at sasic.mihajlo25@gmail.com.
 
 <!---
 kibshh/kibshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
