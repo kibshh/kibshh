@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm honing my skills in embedded programming.
 
-🚀 I’m open to collaborating on exciting Embedded Systems and IoT projects, as well as any projects involving C++, C, or Python.
+🚀 I’m open to collaborating on exciting Embedded Systems and IoT projects, as well as any projects involving C++, C, Python or Go.
 
 📫 Reach me at sasic.mihajlo25@gmail.com.
 
