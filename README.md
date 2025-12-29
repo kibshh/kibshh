@@ -1,14 +1,5 @@
-👋 Hi, I’m Mihajlo!
+I am an engineer passionate about Embedded Systems and IoT, with a strong focus on developing efficient, reliable, and scalable solutions. Currently, I am sharpening my skills in embedded programming and expanding my expertise in backend development.
 
-👀 I’m passionate about Embedded Systems and IoT.
+I am open to collaborating on projects involving Embedded Systems, IoT, and software development in C, C++, Python, or Go. My goal is to contribute to impactful projects that bridge hardware and software, delivering real-world value.
 
-🌱 Currently, I'm honing my skills in embedded programming.
-
-🚀 I’m open to collaborating on exciting Embedded Systems and IoT projects, as well as any projects involving C++, C, Python or Go.
-
-📫 Reach me at sasic.mihajlo25@gmail.com.
-
-<!---
-kibshh/kibshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Contact: sasic.mihajlo25@gmail.com
